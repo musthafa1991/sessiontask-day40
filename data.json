@@ -1,0 +1,48 @@
+{
+    "users": [
+      {
+        "name": "musthafa"
+      },
+      {
+        "name": "murshid"
+      }
+    ],
+    "codekata": [
+      { "name": "musthafa", "array": 56, "string": 14 },
+      { "name": "murshid", "array": 56, "string": 14 }
+    ],
+    "attendance": [
+      {
+        "students": [
+          { "name": "musthafa", "date": "15-oct-2020", "attend": "P" },
+          { "name": "murshid", "date": "15-oct-2020", "attend": "P" }
+        ]
+      },
+      {
+        "mentor": [
+          { "name": "raj", "date": "15-oct-2020", "attend": "P" },
+          { "name": "guru", "date": "15-oct-2020", "attend": "P" }
+        ]
+      }
+    ],
+    "topics": [
+      { "topic": "array", "date": "15-oct-2020","month":"October", "task": "rotate array" },
+      { "topic": "string", "date": "15-oct-2020","month":"October", "task": "reverse the string" }
+    ],
+    "companydrive": [
+      {
+        "company": "accenture",
+        "date": "15-oct-2020",
+        "attend": ["musthafa", "murshid"]
+      },
+      {
+        "company": "wipro",
+        "date": "16-oct-2020",
+        "attend": ["musthafa", "murshid"]
+      }
+    ],
+    "mentors": [
+      { "name": "raj", "students": ["musthafa", "murshid", "alex"] },
+      { "name": "guru", "students": ["jhon", "mari", "alexander"] }
+    ]
+  }
